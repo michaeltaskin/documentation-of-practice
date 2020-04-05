@@ -1,2 +1,3 @@
 # documentation-of-practice
-template project for the documentation of practice assignments
+
+this repo is a template project for the documentation of practice assignments
