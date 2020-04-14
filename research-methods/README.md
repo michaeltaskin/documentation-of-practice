@@ -6,7 +6,8 @@
 - Date: April 14, 2020
 - Description: Sketches of different final piece ideas.
 
-![researchphotos.png]
+![]({{site.baseurl}}/research-methods/researchphotos.png)![researchphotos.png]({{site.baseurl}}/research-methods/researchphotos.png)
+
 
 - Date: April 14, 2020
 - Description: Screen shots of articles and sites I visited while researching mental health in livestreaming on Twitch in specific.
