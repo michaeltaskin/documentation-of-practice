@@ -12,7 +12,9 @@
 - Description: Screen shots of articles and sites I visited while researching mental health in livestreaming on Twitch in specific.
 
 Links - https://www.psyberguide.org/blog/guest-blog/where-twitch-can-help-with-mental-health/
+
 		https://kotaku.com/suicide-threats-are-a-big-problem-on-twitch-1821235980
+        
         https://twitchtracker.com/statistics
         
 The top two screenshots are from kotaku's article which talks about how streamers interact with viewers who are suffering from mental health issues. In that article in specific, it is addressing depression and suicide. This article gives more insight into how both the viewers and streamers can both be affected, it is not just the streamer who has to deal with these problems.
