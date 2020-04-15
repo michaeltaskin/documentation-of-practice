@@ -1,7 +1,8 @@
 # Livestreaming Research
  Research
 
-![Research](research.jpeg)
+![researchsketches.png]({{site.baseurl}}/research-methods/researchsketches.png)
+
 
 - Date: April 14, 2020
 - Description: Sketches of different final piece ideas.
