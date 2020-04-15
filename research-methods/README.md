@@ -7,6 +7,24 @@
 - Date: April 14, 2020
 - Description: Sketches of different final piece ideas.
 
+Top 
+
+1 - Original idea. Basically a huge crowd of people with the focus on the streamer who is visibly stressed out. POV is from inside of the monitor/other side of the screen of streamer.
+
+2 - This idea is more direct, but I am not sure that I like that nor do I really like the way that it looks.
+
+3 - It conveys the message, but doesn't look that nice to me.
+
+Bottom
+
+1 - Sketch of two figures hugging eachother, but they are made out of a node network-ish kind of pattern.
+
+2 - This idea is a lot more suggestive and is cleaner and simpler to me which I personally prefer over the top sketch.
+
+3 - Node pattern shows how the connection between streamer and viewer is virtual/not irl. The two figures hugging shows how the relationship between the streamer and viewer is one where each person helps the other out/the sense of community that is created in the livestreaming world.
+
+I am leaning more towards making something more like the bottom idea for my final after doing more research and thinking.
+
 ![researchphotos.png]({{site.baseurl}}/research-methods/researchphotos.png)
 
 
