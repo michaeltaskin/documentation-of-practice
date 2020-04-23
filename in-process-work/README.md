@@ -1,7 +1,6 @@
 # Livestreaming Figures, work in progress
 
-![practiceone.jpg]({{site.baseurl}}/in-process-work/practiceone.jpg)
-![practicetwo.png]({{site.baseurl}}/in-process-work/practicetwo.png)
+
 
 
 
