@@ -1,6 +1,6 @@
 # Livestreaming Figures, work in progress
 
-![practiceone.jpg]({{site.baseurl}}/in-process-work/practiceone.jpg)
+![practiceone.jpg]({{https://github.com/michaeltaskin/documentation-of-practice/blob/master/in-process-work/practiceone.jpg}}/in-process-work/practiceone.jpg)
 ![practicetwo.png]({{site.baseurl}}/in-process-work/practicetwo.png)
 
 
