@@ -1,9 +1,14 @@
-# Emoji Portraits, work in progress
+# Livestreaming Figures, work in progress
 
-![In_Progress](sketch.png)
+![practiceone.jpg]({{site.baseurl}}/in-process-work/practiceone.jpg)
+![practicetwo.png]({{site.baseurl}}/in-process-work/practicetwo.png)
 
-- Date: April 19, 2020
-- Medium: Digital Image file produced with custom software
-- Description: This is one of the first sketches I produced using special software I found online called emoji.ink
 
-Inspired by the early ASCII art portraits I found in my research on emoticons, I decided to create portraits using emojis. My first attempts were produced using Snapchat, but it was very difficult to get the level of detail I wanted. After further research I found an online application called emoji.ink, developed by an Internet artist named Vince McElvie. It's this app which I used to produce the sketch seen above. My initial sketches were focused on specific facial features (eyes, nose, lips). I made numerous sketches of these close ups to practice drawing with emojis until I had developed a style I felt had the right degree of "photo realism", or at least as representational as one can get with emojis.
+
+- Date: April 22, 2020
+- Medium: Screenshots of a digital image file produced with Adobe Photoshop
+- Description: This is the sketch of the two figures that I drew. One figure is filled with Twitch emotes to represent the viewer and the other is filled with Twitch channels to represent the streamer.
+
+After our group zoom meeting, I thought about how I could make the piece more specific to livestreaming and Twitch instead of it being a more general representation of online interactions. I tried to make the lines the exact color of purple that Twitch uses, but the node pattern still felt too general. As a result, I scrapped that idea and started working on making patterns of the most used Twitch emotes and most followed Twitch channels in order to make the focus more on livestreaming. I found those out by looking at https://stats.streamelements.com/ and https://twitchtracker.com/channels/most-followers.
+
+I created the patterns in Adobe Photoshop and then masked them into the sketch of the figures.
