@@ -1,6 +1,6 @@
 # Livestreaming GIF
 
-![final-project/StreamingFinalGIF.gif](final-project/StreamingFinalGIF.gif)
+![]({{site.baseurl}}/final-project/StreamingFinalGIF.gif)
 - Date: April 29, 2020
 - Medium: Digitally produced GIF
 - Title: Virtual Connection, 14 x 18 inches
