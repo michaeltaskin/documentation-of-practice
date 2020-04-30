@@ -1,6 +1,6 @@
 # Livestreaming GIF
 
-![Finished_Work](Finished_Work.jpg)
+![]({{site.baseurl}}/final-project/StreamingFinalGIF.gif)
 
 - Date: April 29, 2020
 - Medium: Digitally produced GIF
